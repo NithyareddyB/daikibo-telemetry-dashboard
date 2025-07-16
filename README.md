@@ -69,6 +69,16 @@ The dataset includes:
 
 ---
 
+## 📌 Author
+
+**B. Nithya Reddy**  
+Final Year Student | Data Enthusiast | Tableau Developer
+
+📧 [https://www.linkedin.com/in/nithya-reddy-banala-12316a2b9/]  
+📍 ICFAI Tech, Hyderabad
+
+---
+
 ## 📌 Note
 
 This project was created for learning and visualization purposes using dummy data. It is not affiliated with any real company or official dataset.
